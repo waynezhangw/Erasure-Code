@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17278bb3-996b-4b05-99af-4dd8b8d536fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iGO1y0C00jZ8fiJQTtWtX7G6ZP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.encode">
+    <configuration name="encode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ErasureCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ErasureCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.encode" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17278bb3-996b-4b05-99af-4dd8b8d536fa" name="Default Changelist" comment="" />
+      <created>1601530250092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601530250092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2725" y="319" key="FileChooserDialogImpl" timestamp="1601530665090">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state x="2725" y="319" key="FileChooserDialogImpl/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601530665090" />
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1601553798576">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798576" />
+    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1601553798575">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2027" height="318" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798575" />
+    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1601553798575">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2027" height="318" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798575" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1601553798576">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798576" />
+    <state x="2453" y="220" key="SettingsEditor" timestamp="1601531150815">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state x="2453" y="220" key="SettingsEditor/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601531150815" />
+    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1601533296048">
+      <screen x="1920" y="0" width="2048" height="1152" />
+    </state>
+    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601533296048" />
+  </component>
+</project>
