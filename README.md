@@ -14,6 +14,15 @@ This is a simple HelloWorld of EC.
 
 ### 2.Reed-Solomon Codes 
 
-![1](D:\semester\vivo\code\EC\Image\1.png)
 
-![2](D:\semester\vivo\code\EC\Image\2.png)
+
+
+<p>
+    <img src="./Image/1.png"/>
+</p>
+
+
+<p>
+    <img src="./Image/2.png"/>
+</p>
+
