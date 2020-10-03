@@ -14,9 +14,8 @@ This is a simple HelloWorld of EC.
 
 ### 2.Reed-Solomon Codes 
 
-![image-20201003233511244](C:\Users\Wayne\AppData\Roaming\Typora\typora-user-images\image-20201003233511244.png)
-
-![image-20201003233614954](C:\Users\Wayne\AppData\Roaming\Typora\typora-user-images\image-20201003233614954.png)
+![1](D:\semester\vivo\code\EC\Image\1.png)
 
 
 
+![2](D:\semester\vivo\code\EC\Image\2.png)
