@@ -16,6 +16,4 @@ This is a simple HelloWorld of EC.
 
 ![1](D:\semester\vivo\code\EC\Image\1.png)
 
-
-
 ![2](D:\semester\vivo\code\EC\Image\2.png)
