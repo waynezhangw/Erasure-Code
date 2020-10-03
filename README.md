@@ -1,7 +1,7 @@
 # Erasure Code
 This is a simple HelloWorld of EC.
 
-
+### 1.Comparison of the EC and traditional method
 
 | Erasure Coding                      | Replication                    |
 | ----------------------------------- | ------------------------------ |
@@ -12,7 +12,11 @@ This is a simple HelloWorld of EC.
 | high CPU consumption                | almost zero CPU                |
 |                                     |                                |
 
+### 2.Reed-Solomon Codes 
 
+![image-20201003233511244](C:\Users\Wayne\AppData\Roaming\Typora\typora-user-images\image-20201003233511244.png)
+
+![image-20201003233614954](C:\Users\Wayne\AppData\Roaming\Typora\typora-user-images\image-20201003233614954.png)
 
 
 

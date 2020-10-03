@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17278bb3-996b-4b05-99af-4dd8b8d536fa" name="Default Changelist" comment="" />
+    <list default="true" id="17278bb3-996b-4b05-99af-4dd8b8d536fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encode.py" beforeDir="false" afterPath="$PROJECT_DIR$/encode.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iGO1y0C00jZ8fiJQTtWtX7G6ZP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.encode">
@@ -104,29 +113,29 @@
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
     <state x="2725" y="319" key="FileChooserDialogImpl/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601530665090" />
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1601553798576">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom" timestamp="1601696126981">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798576" />
-    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1601553798575">
+    <state width="2027" height="318" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601696126981" />
+    <state width="2027" height="318" key="GridCell.Tab.0.center" timestamp="1601696126980">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798575" />
-    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1601553798575">
+    <state width="2027" height="318" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601696126980" />
+    <state width="2027" height="318" key="GridCell.Tab.0.left" timestamp="1601696126980">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798575" />
-    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1601553798576">
+    <state width="2027" height="318" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601696126980" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right" timestamp="1601696126980">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601553798576" />
+    <state width="2027" height="318" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601696126980" />
     <state x="2453" y="220" key="SettingsEditor" timestamp="1601531150815">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
     <state x="2453" y="220" key="SettingsEditor/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601531150815" />
-    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1601533296048">
+    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog" timestamp="1601733839473">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601533296048" />
+    <state x="2641" y="400" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601733839473" />
   </component>
 </project>
