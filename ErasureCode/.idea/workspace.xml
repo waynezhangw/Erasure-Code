@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.encode">
+  <component name="RunManager" selected="Python.main">
     <configuration name="encode" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ErasureCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -78,8 +78,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.encode" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.encode" />
       </list>
     </recent_temporary>
   </component>
@@ -117,22 +117,22 @@
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
     <state x="2725" y="319" key="FileChooserDialogImpl/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601530665090" />
-    <state width="2027" height="354" key="GridCell.Tab.0.bottom" timestamp="1601882921087">
+    <state width="2027" height="354" key="GridCell.Tab.0.bottom" timestamp="1601975953737">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="354" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601882921087" />
-    <state width="2027" height="354" key="GridCell.Tab.0.center" timestamp="1601882921087">
+    <state width="2027" height="354" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601975953737" />
+    <state width="2027" height="354" key="GridCell.Tab.0.center" timestamp="1601975953737">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="354" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601882921087" />
-    <state width="2027" height="354" key="GridCell.Tab.0.left" timestamp="1601882921087">
+    <state width="2027" height="354" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601975953737" />
+    <state width="2027" height="354" key="GridCell.Tab.0.left" timestamp="1601975953737">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="354" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601882921087" />
-    <state width="2027" height="354" key="GridCell.Tab.0.right" timestamp="1601882921087">
+    <state width="2027" height="354" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601975953737" />
+    <state width="2027" height="354" key="GridCell.Tab.0.right" timestamp="1601975953737">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>
-    <state width="2027" height="354" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601882921087" />
+    <state width="2027" height="354" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2048.1152@1920.0.2048.1152" timestamp="1601975953737" />
     <state width="2027" height="343" key="GridCell.Tab.1.bottom" timestamp="1601882020500">
       <screen x="1920" y="0" width="2048" height="1152" />
     </state>

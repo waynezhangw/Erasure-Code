@@ -2,7 +2,7 @@
 
 import numpy as np
 
-import decode
+
 
 class Encode():
     def __init__(self, n, m):
@@ -30,21 +30,3 @@ class Encode():
         self.read_data()
         self.encodeResults = np.dot(self.myMatrix, self.myData)
         print("encoding finished!!")
-
-
-
-if __name__ == "__main__":
-    i = 0
-    iteration_times = 100
-    dataNum = 5           # should not be to large, 20 might be too big, usually 5~10
-    dataMade = 3           # around dataNum/2
-    dataLost = 3           # must less or equal to dataMade
-    while i < iteration_times:
-        encoder = Encode(dataNum, dataMade)
-        encoder.encoding()
-        checker = decode.Check(dataLost)
-        lostRows = checker.make_lost(encoder)
-        decoder = decode.Decode(lostRows)
-        decoder.decoding(encoder, checker)
-        print(i)
-        i = i+1
